@@ -13,7 +13,7 @@ export default function SignIn() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome Back!</Text>
+      <Text style={styles.title}>Welcome To Simply Chat.</Text>
       <Text style={styles.subtitle}>Sign in to continue</Text>
       <TextInput
         style={styles.input}
